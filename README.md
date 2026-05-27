@@ -1,28 +1,68 @@
-# C++ DSA Practice
+# C++ DSA Portfolio
 
-## Overview
-This repository contains my structured practice of Data Structures and Algorithms using C++.
+A structured repository documenting my Data Structures and Algorithms practice using C++.
 
-I am focusing on building strong problem-solving skills, optimizing time complexity, and understanding core concepts required for high-performance systems.
+The primary focus of this repository is developing strong problem-solving skills, improving algorithmic thinking, and writing optimized solutions with clear reasoning behind each approach.
 
-## What You'll Find
-- Array-based problems
-- String and vector problems
-- Optimization techniques (sliding window, two pointers, etc.)
-- Clean implementations with complexity analysis
+---
 
-## Approach
-For each problem:
-- Clear problem understanding
-- Optimized solution (not just brute force)
-- Time & Space complexity analysis
+## Focus Areas
 
-## Tech Stack
-- Language: C++
-- Concepts: Data Structures, Algorithms, Problem Solving
+- Sliding Window
+- Two Pointers
+- Prefix Sum
+- Hashing
+- Arrays & Strings
+- Complexity Optimization
+- Edge Case Handling
 
-## Goal
-To build a strong foundation in problem solving and move towards low-latency system development.
+---
+
+## Repository Structure
+
+Problems are organized by algorithmic patterns instead of STL containers.
+
+Example:
+
+Sliding_Window/
+Two_Pointers/
+Prefix_Sum/
+Hashing/
+
+This helps emphasize the underlying solving technique used for each problem.
+
+---
+
+## Problem Solving Approach
+
+For each problem, I focus on:
+
+- Understanding the core pattern
+- Reducing unnecessary operations
+- Optimizing time complexity
+- Handling edge cases correctly
+- Improving implementation clarity
+
+---
+
+## Language & Tools
+
+- C++
+- STL
+- GNU g++
+- Termux / Linux-based workflow
+
+---
+
+## Current Goals
+
+- Build strong DSA fundamentals
+- Improve algorithmic intuition
+- Develop efficient problem-solving habits
+- Prepare for low-latency and performance-oriented systems programming
+
+---
 
 ## Progress
-Consistently solving and documenting problems.
+
+Consistently solving and documenting problems while refining solution quality and optimization techniques.
