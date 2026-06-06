@@ -28,7 +28,9 @@ int main()
 
     std::cout<<std::endl ;
 
-    for ( int i{} ; i<=points.size() ; ++i )
+    int size = points.size() ;
+
+    for ( int i{} ; i<=size ; ++i )
     {
 	std::cout <<"("<< points.top().second.first << "," << points.top().second.second << ")" <<" ";
         points.pop() ;
