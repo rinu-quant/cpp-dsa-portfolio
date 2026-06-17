@@ -17,6 +17,7 @@ The primary focus of this repository is developing strong problem-solving skills
 - Edge Case Handling
 - Heaps
 - Binary_Search
+- Monotonic Stack
 
 ---
 
