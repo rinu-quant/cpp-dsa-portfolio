@@ -15,6 +15,8 @@ The primary focus of this repository is developing strong problem-solving skills
 - Arrays & Strings
 - Complexity Optimization
 - Edge Case Handling
+- Heaps
+- Binary_Search
 
 ---
 
